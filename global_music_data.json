@@ -1,0 +1,86 @@
+[
+    {
+        "region": "global",
+        "type": "artist",
+        "name": "The Weeknd",
+        "popularity": 97,
+        "genres": "N/A"
+    },
+    {
+        "region": "global",
+        "type": "artist",
+        "name": "Taylor Swift",
+        "popularity": 98,
+        "genres": "N/A"
+    },
+    {
+        "region": "global",
+        "type": "artist",
+        "name": "Bad Bunny",
+        "popularity": 100,
+        "genres": "reggaeton, trap latino, urbano latino, latin"
+    },
+    {
+        "region": "north_america",
+        "type": "artist",
+        "name": "Drake",
+        "popularity": 99,
+        "genres": "rap"
+    },
+    {
+        "region": "north_america",
+        "type": "artist",
+        "name": "Morgan Wallen",
+        "popularity": 95,
+        "genres": "country"
+    },
+    {
+        "region": "north_america",
+        "type": "artist",
+        "name": "ريفو شو",
+        "popularity": 53,
+        "genres": "egyptian pop, egyptian hip hop, arabic hip hop"
+    },
+    {
+        "region": "europe",
+        "type": "artist",
+        "name": "Ed Sheeran",
+        "popularity": 92,
+        "genres": "soft pop"
+    },
+    {
+        "region": "europe",
+        "type": "artist",
+        "name": "Dua Lipa",
+        "popularity": 90,
+        "genres": "pop"
+    },
+    {
+        "region": "europe",
+        "type": "artist",
+        "name": "Harry Styles",
+        "popularity": 85,
+        "genres": "N/A"
+    },
+    {
+        "region": "asia",
+        "type": "artist",
+        "name": "Artist Vs Poet",
+        "popularity": 44,
+        "genres": "pop punk"
+    },
+    {
+        "region": "asia",
+        "type": "artist",
+        "name": "YOASOBI",
+        "popularity": 76,
+        "genres": "j-pop, anime"
+    },
+    {
+        "region": "asia",
+        "type": "artist",
+        "name": "Arijit Singh",
+        "popularity": 93,
+        "genres": "hindi pop, bollywood, desi, bangla pop"
+    }
+]

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "North America"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[-168.75, 71.85], [-168.75, 15.28], [-52.03, 15.28], [-52.03, 71.85], [-168.75, 71.85]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "South America"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[-81.56, 12.21], [-81.56, -55.57], [-34.80, -55.57], [-34.80, 12.21], [-81.56, 12.21]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "Europe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[-24.60, 71.41], [-24.60, 35.17], [40.78, 35.17], [40.78, 71.41], [-24.60, 71.41]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "Africa"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[-17.22, 35.74], [-17.22, -35.17], [51.48, -35.17], [51.48, 35.74], [-17.22, 35.74]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "Asia"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[40.78, 71.41], [40.78, -8.75], [142.03, -8.75], [142.03, 71.41], [40.78, 71.41]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "continent": "Oceania"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[112.32, -8.75], [112.32, -47.75], [179.64, -47.75], [179.64, -8.75], [112.32, -8.75]]]
+            }
+        }
+    ]
+}
